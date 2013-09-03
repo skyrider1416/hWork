@@ -1,0 +1,6 @@
+UNA:+. *'
+UIB+UNOA:0++somenewmsgid:RelatestoMessageID+++9999999999001:D:senderpwd:sendertid+9999999:P:recippwd:reciptid+20081101:102345++::::::::::::::::::::::::::::::::::0'
+UIH+SCRIPT:010:005:ERROR+RxRefNum+PON12345ABCD++20081101:102345'
+STS+900+660*661*662*663*664*665*666*667*668*669+abcdefghij0123456789abcdefghij0123456789abcdefghij0123456789abcdefghij'
+UIT+PON12345ABCD+3'
+UIZ++1'
